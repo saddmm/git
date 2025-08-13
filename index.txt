@@ -4,4 +4,8 @@ jsbgfhjbdvfjbvg
 
 ini perubahan saddam
 
+<<<<<<< HEAD
 bintang melakukan perubahan
+=======
+HALOOOOOOOO INI AKU
+>>>>>>> 60f8a2fad2ae3c3f13ce80bfe97ecd336c16adb8
